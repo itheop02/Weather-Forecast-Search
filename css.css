@@ -1,0 +1,125 @@
+h1 {
+    color: white;
+}
+
+body {
+    background-image: url('https://www.cs.ucy.ac.cy/courses/EPL425/assignments/sunset.jpg');
+    background-size: cover;
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.back {
+    background-color: rgba(221, 215, 215, 0.223);
+    padding: 10px;
+    margin-top: 20px;
+    border-radius: 2%;
+}
+
+#star {
+    color: red;
+    display: inline;
+}
+
+table {
+    width: 100%;
+}
+
+.share {
+    visibility: hidden;
+}
+
+.enter {
+    visibility: hidden;
+    color: red;
+}
+
+.navigations:hover {
+    background-color: blue;
+    color: white;
+}
+
+.results {
+    visibility: hidden;
+    background-color: white;
+    border-radius: 2%;
+}
+
+.iconDivClass {
+    display: inline-block;
+    text-align: center;
+}
+
+.inline {
+    display: inline-block;
+}
+
+.allignRight {
+    text-align: right;
+
+
+}
+
+.allignLeft {
+    text-align: left;
+    display: inline-block;
+}
+
+.info {
+    background-color: white;
+    border-color: black;
+    border: 10px;
+    display: inline;
+}
+
+#minimum {
+    color: blue;
+}
+
+#maximum {
+    color: red;
+}
+
+#iconImg {
+    height: 150px;
+    width: 150px;
+
+}
+
+.tableAllign {
+    text-align: center;
+}
+
+.map {
+    height: 400px;
+    width: 100%;
+}
+
+.img_ {
+    height: 40px;
+    width: 40px;
+}
+
+.unblock {
+    display: inline;
+}
+
+.makeRed {
+    background-color: red;
+}
+
+.makeBlue {
+    background-color: #0d6efd !important;
+    color: white !important;
+    
+}
+.makeBlue.active {
+    background-color: white !important;
+    color:#0d6efd !important;
+    
+}
+#download_canvas{
+    visibility: hidden;
+}
