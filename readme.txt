@@ -1,10 +1,3 @@
-####################################################
-			EPL 425 - Homework 2				
-		   - - - - - - - - - - - - 				
-	Name		: Ioanna Theophilou				
-	ID			: 1037638						
-	Deadline	: 18/04/2022					 	
-####################################################
 
 (1) Functionalities Implemented:
 	
@@ -41,12 +34,8 @@
 								~  	According to many articles this is not a good practise so
 									I prefer not to change the permissions as it is considered 
 									unsafe, and capture as many data as possible. 
-									
-(4) Full URL of web-app: 
-	
-	https://www.cs.ucy.ac.cy/~itheop02/epl425/
-
-									
+									 
+				
 				 
 	
 	
